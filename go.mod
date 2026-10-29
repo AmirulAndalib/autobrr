@@ -28,7 +28,7 @@ require (
 	github.com/fergusstrange/embedded-postgres v1.34.0
 	github.com/fsnotify/fsnotify v1.10.1
 	github.com/go-andiamo/splitter v1.2.5
-	github.com/go-chi/chi/v5 v5.3.2
+	github.com/go-chi/chi/v5 v5.4.0
 	github.com/go-chi/render v1.0.3
 	github.com/gosimple/slug v1.15.0
 	github.com/hashicorp/go-version v1.9.0
